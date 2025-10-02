@@ -1,0 +1,15 @@
+
+<Document>
+<xml> </xml>
+<Books>
+<Book>
+<Author>Carson</Author>
+<Price format="dollar">$31.95</Price>
+<Pubdate>05.01.2001</Pubdate>
+</Book>
+<Pubinfo>
+<Publisher>MSPress</Publisher>
+<State>WA</State>
+</Pubinfo>
+</Books>
+</Document>
